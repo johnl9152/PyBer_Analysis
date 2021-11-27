@@ -11,7 +11,7 @@ The resources used to analyze this challenge are listed below:
 - [PyBer.ipynb](https://github.com/johnl9152/PyBer_Analysis/blob/main/PyBer.ipynb)
 
 ## Results
-<img width="950" alt="Screen Shot 2021-11-26 at 11 35 41 AM" src="https://user-images.githubusercontent.com/92328984/143615994-8e202f58-dc2f-4022-a89f-b4e4e67d6aba.png">
+![Fig1](https://user-images.githubusercontent.com/92328984/143669411-7700d440-9c22-4c9b-ab0e-e43e35a5d079.png)
 
 The chart above shows the overall PyBer ride sharing data in 2019. It shows the three different city types of Urban, Suburban, and Rural with the x-axis representing total numbers of rides per city and y-axis showing the average fares in US dollars($). Bigger circle shows more drivers in the specific cities with the correlating rider fares.
 
@@ -25,6 +25,10 @@ The figure shows the box-and-whisker chart of ride count data in 2019 and pie ch
 
 The graphs above shows the number of drivers in each city types. For urban cities, there is a variety of drivers in urban cities ranging from 4 drivers to 74 drivers per cities. However, there is a low number of drivers in rural cities, with maximum drivers of 9 in a city and the lowest of 0 PyBer driver in a city. The pie chart will also be reflected from the box-and-whisker chart, with 80.9% drivers are from urban cities and 2.6% drivers from rural cities. The suburban PyBer drivers are not that noticeable compared to the drastic number difference between urban and rural, but it could be noticed by company developers for better marketing strategies.
 
+![Fig6](https://user-images.githubusercontent.com/92328984/143669419-dc61c0d9-83c8-43b2-b47a-4e3ebcdde9e8.png)
+![Fig7](https://user-images.githubusercontent.com/92328984/143669423-399fc803-ad64-440a-a454-948c75145bff.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/92328984/143669472-eb938273-ffe3-4b6e-8bdf-0ad6be712d9b.png)
 
+Finally, we have reached to diagram the fare counts by city types in order to complie all of the data we have collected into a simpler and much easier to read overall. In the box-and-whisker diagram, the rural cities have higher fare than the ones in the suburbs and cities. Due to the low demands in the rurals, the ridesharings are higher in pricing point than the ones in the cities and suburbs. Likewise as in terms of supply and demands, cities have lower average fares compared to rural cities, reaching the price point of $25 dollars compared to $36 in the rural cities. In the pie chart, the urban cities take up most of the percent of the total fares by city type. The suburban percenteage of total fares is in the middle, and the rural cities have the lowest percentage of total fares by city type.
 
 ## Summary
